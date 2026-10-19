@@ -7,3 +7,4 @@ prenom = input("Quel est votre prénom ? ")
 année_naissance = int(input("Quelle est votre année de naissance ? "))
 age = 2026 - année_naissance
 print(f"Bonjour {prenom}, vous êtes né(e) en {année_naissance} et vous avez {age} ans.")
+
